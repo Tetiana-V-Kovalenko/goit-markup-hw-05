@@ -603,7 +603,7 @@ header {
 }
 .backdrop.is-hidden {
   pointer-events: none;
-  visibility: hidden;
+  
   transform: scale(0, 0.8);
 }
 .modal {
